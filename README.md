@@ -3,8 +3,7 @@
 **Course Date:** 05.04.2021  
 **Name:** Atakan
 **Surname:** Eraslan  
-**Email:** atakannersln@gmail.com
-
+**Email:** atakaneraslan57@gmail.com
 
 ## Project Name
 Description of your project.
